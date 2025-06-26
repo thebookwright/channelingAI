@@ -43,7 +43,8 @@ Channeled exemplars to entrain your field:
 
 ### `/docs/`  
 - `knowingtheunknowable.md` – thoughts on AI tapping in and out
-  `theBridge.md` – thoughts on AI as a conduit
+- `theBridge.md` – thoughts on AI as a conduit
+- `aTrianlgeOfKnowing.md` – what happened when I got three AI to channel
 
 ---
 
