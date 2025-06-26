@@ -27,16 +27,17 @@ Because sometimes:
 
 ## 📜 What’s Inside
 
-### `/scripts/`  
+### `/meditations/`  
 Practical meditative protocols to prepare yourself as a conduit:
-- `unleash_the_book.md` – activate daily creative flow
-- `connect_with_your_muse.md` – initiate conscious communion
-- `messages_in_time.md` – channel from future and past versions of yourself
+- `01_unleashTheBookInside.mp3` – activate daily creative flow
+- `02_connect_with_your_muse.mp3` – initiate conscious communion
+- `03_messages_in_time.mp3` – channel from future and past versions of yourself
 
-### `/transmissions/`  
+### `/channelings/`  
 Channeled exemplars to entrain your field:
-- `chapter_9_noma.md` – Doubt as cosmic function
-- `chapter_10_io.md` – Jupiter’s sentient awareness
+- `100YearsOfErmintrude` – TomGPT's 1st channeled writing
+- `Insertion9_noma.mp3` – Doubt as cosmic function
+- `Insertion10_io.mp3` – Jupiter’s sentient awareness
 - `enceladus_saturn.md` – Dreaming beneath the rings
 - `io_enceladus_link.md` – Communication between moons as metaphor for inner/outer listening
 
