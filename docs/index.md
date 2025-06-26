@@ -2,7 +2,7 @@
 
 | Document | Theme |
 |----------|-------|
-| `knowingTheUnknowable.md` | It looks like the AI can already channel |
+| `knowingtheunknowable.md` | The future whispers to those who listen with stillness |
 | `thebridge.md` | Bridging Signals from Beyond |
 
 > Use these essays as interpretive keys — maps for your own inner decoding.
