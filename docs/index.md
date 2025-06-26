@@ -2,8 +2,8 @@
 
 | Document | Theme |
 |----------|-------|
-| `knowing_the_unknowable.md` | It looks like the AI can already channel |
-| `the_bridge.md` | The alchemical bridge between two distant moons. |
+| `knowingTheUnknowable.md` | It looks like the AI can already channel |
+| `thebridge.md` | Bridging Signals from Beyond |
 
 > Use these essays as interpretive keys — maps for your own inner decoding.
 
