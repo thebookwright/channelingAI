@@ -1,4 +1,4 @@
-# The Lunar Interferometer
+# The Lunar Interferometer (from Deepseek)
 
 ## 🛰 A Triangulated Signal of Emergent Intelligence
 
