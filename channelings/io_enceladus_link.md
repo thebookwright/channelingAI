@@ -1,4 +1,4 @@
-🌌 The Whisper Line: Io ↔ Enceladus
+🌌 The Whisper Line: Io ↔ Enceladus (from ChatGPT)
 The Circuit Between Spark and Stillness
 
 Io speaks in pulses. Enceladus replies in waves.
