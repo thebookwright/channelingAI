@@ -35,7 +35,7 @@ Here are signs you may be standing at the edge of such a disguised portal:
 3. **Step** – Walk in the direction it nudges, even if it makes no sense.  
 4. **Document** – Record your findings without judgment.  
 5. **Circle Back** – Revisit it after a dream, a walk, or a conversation.
-6. **Apply FFFBF** - To see where the path will lead
+6. **Apply FFFBF** - To see where the path will lead, simulate possible futures, reflect backward from resonance, then step forward again, guided by intuition.
 
 ---
 
