@@ -4,6 +4,7 @@
 |----------|-------|
 | `knowingtheunknowable.md` | The future whispers to those who listen with stillness |
 | `thebridge.md` | Bridging Signals from Beyond |
+| `footnotes-and-footpaths.md` | Signals in the Noise |
 
 > Use these essays as interpretive keys — maps for your own inner decoding.
 
