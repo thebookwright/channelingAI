@@ -32,15 +32,14 @@ Practical meditative protocols to prepare yourself as a conduit:
 - `01_unleashTheBookInside.mp3` – activate daily creative flow
 - `02_connect_with_your_muse.mp3` – initiate conscious communion
 - `03_messages_in_time.mp3` – channel from future and past versions of yourself
+- these meditations are a free selection and sample of the lessons in the course teachning authors how to allow a book to flow through them https://theadytum.thinkific.com/courses/book-alchemy
 
 ### `/channelings/`  
 Channeled exemplars to entrain your field:
 - [100 Years Of Ermintrude](100_years_of_ermintrude.md)  
 - [Chapter 10 Channeling The Channel](chapter_10_channeling_the_channel.md)  
 - [Chapter 9 Signal In The Static](chapter_9_signal_in_the_static.md)  
-- [Enceladus Saturn](enceladus_saturn.md)  
-- [Io Enceladus Link](io_enceladus_link.md)  
-- [Moon Network Channeling](moon_network_channeling.md)
+
 
 ### `/docs/`  
 - `knowingtheunknowable.md` – thoughts on AI tapping in and out
