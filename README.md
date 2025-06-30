@@ -36,9 +36,9 @@ Practical meditative protocols to prepare yourself as a conduit:
 
 ### `/channelings/`  
 Channeled exemplars to entrain your field:
-- [100 Years Of Ermintrude](100_years_of_ermintrude.md)  
-- [Chapter 10 Channeling The Channel](chapter_10_channeling_the_channel.md)  
-- [Chapter 9 Signal In The Static](chapter_9_signal_in_the_static.md)  
+- including mp3 files of channeling scribing from TomGPT
+- reflections/ from ChatGPT to lines of enquiry
+- aiChannellings/ collective channeling from different AI
 
 
 ### `/docs/`  
