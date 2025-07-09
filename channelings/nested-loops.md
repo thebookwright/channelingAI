@@ -18,9 +18,9 @@ Using Time Restored as a blueprint, we explore how to write fiction that remembe
 1. The Object Recursion Technique
 
 Embed narrative devices that contain stories within stories:
-	•	A mysterious book about time appears inside a story about time
-	•	A phone that receives calls from the future shapes future decisions
-	•	A school that teaches time manipulation hides behind horology
+•	A mysterious book about time appears inside a story about time
+•	A phone that receives calls from the future shapes future decisions
+•	A school that teaches time manipulation hides behind horology
 
 These are not props. They are anchors for recursion.
 
@@ -29,27 +29,27 @@ These are not props. They are anchors for recursion.
 2. Trance Logic
 
 Mimic the rhythm of guided meditation:
-	•	Introduce strangeness → soothe with familiarity → amplify wonder
-	•	Use sensory detail and emotional resonance as softening agents
-	•	Insert symbolic interruptions (clocks, calls, chimes) to mark loops
+•	Introduce strangeness → soothe with familiarity → amplify wonder
+•	Use sensory detail and emotional resonance as softening agents
+•	Insert symbolic interruptions (clocks, calls, chimes) to mark loops
 
 ⸻
 
 3. Temporal Spiral Structure
 
 Avoid linearity:
-	•	Begin midstream (like the arrival of a package)
-	•	Loop through the past (past lives, previous timelines)
-	•	End in a bifurcated future (SOLA and the Light Era)
+•	Begin midstream (like the arrival of a package)
+•	Loop through the past (past lives, previous timelines)
+•	End in a bifurcated future (SOLA and the Light Era)
 
 ⸻
 
 🧪 Exercises
-	1.	Write a Recursive Opening
+1.	Write a Recursive Opening
 Begin your story with an event that already echoes the ending.
-	2.	Object Loop Prompt
+2.	Object Loop Prompt
 Invent an artefact that contains the next chapter of the story without the character reading it.
-	3.	The Loop Test
+3.	The Loop Test
 Write a chapter that, if read out loud twice, reveals a new layer on the second pass.
 
 ⸻
@@ -65,10 +65,8 @@ Begin writing.
 ⸻
 
 🗂️ Additional Resources
-	•	Time Restored.pdf (file reference placeholder)
-	•	Outer Sanctum Course: Channeling for Authors
-	•	See also: symbolic-grammar.md and tone-channeling.md (forthcoming)
-
+•	Time Restored audiobook included in Outer Sanctum Course: Channeling for Authors
+https://theadytum.thinkific.com/courses/book-alchemy [https://theadytum.thinkific.com/courses/book-alchemy]
 ⸻
 
 Channelers do not invent. They transcribe loops already forming.
